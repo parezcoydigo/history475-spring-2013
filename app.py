@@ -1,3 +1,4 @@
+import os
 from feedparser import parse
 from flask import Flask, render_template
 from flask.ext.bootstrap import Bootstrap
@@ -25,5 +26,7 @@ def posts(urls=URLS):
     return render_template('students.html', feedList=feedList)            
     
 if __name__ == '__main__':
-    app.run(debug=True)
+#    app.run(debug=True)
+    port = int(os.environ.get('PORT',5000))
+    app.run(host='0.0.0.0', port=port)
 
