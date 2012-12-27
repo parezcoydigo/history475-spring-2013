@@ -39,10 +39,8 @@
     </div>
     <div class="row-fluid">
         <div class="span10">
-            {% filter markdown -%}
-            {% block content %}
-            {% endblock content %}
-            {%- endfilter %}
+            {% block main  %}
+            {% endblock main  %}
         </div>
     </div>
 
