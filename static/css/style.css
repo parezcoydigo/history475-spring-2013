@@ -27,7 +27,6 @@ body {
     background-image:url('/static/img/background.jpg');
 }
 
-a, .nav a {
-    color: #468400;
+a, nav a {
+    color: #CD853F;
 }
-
