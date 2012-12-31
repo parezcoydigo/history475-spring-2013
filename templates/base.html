@@ -3,6 +3,7 @@
 {% block style %}
 {{ super() }}
 <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
 {% endblock style %}
 
 {% block body_content %}
@@ -18,6 +19,8 @@
 <div class="nav-collapse">
 <ul class="nav">
 <li class=""><a href="/">Home</a></li>
+<li class=""><a href="/syllabus">Syllabus</a></li>
+<li class=""><a href="/assignments">Assignments</a></li>
 <li class=""><a href="/studentposts">Student Posts</a></li>
 <li class=""><a href="/about">About</a></li>
 <li class=""><a href="/contact">Contact</a></li>

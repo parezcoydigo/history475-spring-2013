@@ -24,4 +24,4 @@ for feed in my_feeds:
             + feed.entries[0].summary + "\n\n"
 
 
-f = open('pages/feeds.md', 'w').write(output)
+f = open('pages/studentposts.md', 'w').write(output)
