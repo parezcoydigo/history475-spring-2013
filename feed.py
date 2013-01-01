@@ -1,7 +1,9 @@
 #! /usr/bin/env python
 
+import datetime, os
 from feedparser import parse
-import datetime
+
+scriptPath  = os.path.dirname(__file__)
 
 urls=['http://parezcoydigo.wordpress.com/feed', 'https://americasouthandnorth.wordpress.com/feed/']
 today = datetime.datetime.now()
@@ -24,4 +26,5 @@ for feed in my_feeds:
             + feed.entries[0].summary + "\n\n"
 
 
-f = open('pages/studentposts.md', 'w').write(output)
+f = open(scriptPath+'/pages/studentposts.md', 'w').write(output)
+print "All done!"
