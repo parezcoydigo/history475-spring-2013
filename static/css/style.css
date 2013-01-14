@@ -12,7 +12,6 @@ body {
 
 p {
     margin-bottom: 20px;
-    text-indent: 1.5em;
 }
 .hero-unit h1 {
     font-size: 44px;
@@ -22,6 +21,15 @@ li {
     line-height: 26px;
 }
 
+.toc {
+    background-color: black
+}
+
+.toc li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
 
 #main {
     padding-bottom: 60px;
