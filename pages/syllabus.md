@@ -53,6 +53,13 @@ defined by others in terms of ethnicity, gender or class.
 
 The following books are available for purchase at the bookstore, or of course on Amazon and the like.  
 
+*  Marc Becker, *Pachakutik* (Rowman Littlefield, 2012)  
+*  Carolyn Dean, *A Culture of Stone* (Duke UP, 2010)  
+*  Rebecca Earle, *The Return of the Native* (Duke UP, 2007)  
+*  Matthew and Oudjik, *Indian Conquistadors* (U of Oklahoma P, 2007)  
+*  Restall, Sousa, and Terraciano, *Mesoamerican Voices* (Cambridge UP, 2005)  
+*  Solomon and Nino-Murica, *The Lettered Mountain* (Duke UP, 2011)  
+
 ### Course Policies  
 ![](http://chadblack.net/511S2012/media/images/disability.png)Qualified students with disabilities needing appropriate academic adjustments should contact me as soon as possible to ensure that your needs are met in a timely manner with appropriate documentation.  
 
@@ -64,7 +71,11 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 
 ### Course Requirements  
 
+1.  *Reading.* Each weeks' assigned readings should be completed before class, and in time to post on your blog.  
+2.  *Weekly Blog Posts.* (25%) The lion's share of your writing for this class will be done on your own blog. Each of you must register a free blog on [ wordpress ](http://wordpress.com), and provide me that information before our second meeting on the form [ here ](/form). Blog posts will consist of both freeform reactions to and analysis of our weekly readings or short essays on specific prompts. Blog posts are due each week a student is not leading discussion/presenting, in part as an aid to those who are presenting. As such, posts must be up on your blogs no later than 5pm each Monday, without exception.  
+3.  *Group Presentations.* (35%) Students will be formed into nine groups of 3. One nine of the semester's weeks, those groups will be required to lead discussion and do extra research on that week's topic. Groups should plan ahead for this, because they will be expected to know not only what's assigned, but more background information as well. Additionally, the groups should read their classmate's blog reflections and incorporate questions or insights from those posts in the discussion.  
+4.  *Research Project.* (40%) Each student will be required to complete a 15-20 page research paper due during the designated exam period for this class. This project will be made of a series of smaller assignments. See the [assignments](/assignments) page for more information.  
 
-### Schedule  
+### Schedule 
 
 

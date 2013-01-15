@@ -10,11 +10,17 @@ body {
     line-height: 27px;
 }
 
+h1, h2,h3,h4,strong {
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+
 p {
     margin-bottom: 20px;
 }
 .hero-unit h1 {
     font-size: 44px;
+    font-family: "IM Fell DW Pica SC";
 }
 
 li {
@@ -38,9 +44,6 @@ li {
     border-radius:6px;
 }
 
-h1, h2, h3 {
-    font-family: 'Helvetica Neue','Helvetica','Arial', sans-serif;
-}
 
 footer, #main, .hero-unit {
     background-color: #FFFEF0;
