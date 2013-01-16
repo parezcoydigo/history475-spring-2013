@@ -99,7 +99,7 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
     2. *A Culture of Stone*, pp. 1-64.  
 
 ---
-**Week #4** 30 January  
+**Week #4** 30 January 
 
 *   Indigenous Societies 2  
 *   Readings:  
@@ -116,14 +116,14 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 
 
 ---
-**Week #6** 13 February  
+**Week #6** 13 February  (Group 1)
 
 *  Whose Conquest?  
 *   Readings:
     1.  *Indian Conquistadors*, Finish.
 
 ---
-**Week #7** 20 February   
+**Week #7** 20 February   (Group 2)
 
 *  The "Colonized Indian"  
 *   Readings:
@@ -131,24 +131,27 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
     2. *Mesoamerican Voices*, Ch. 4-7.
 
 ---
-**Week #8** 27 February   
+**Week #8** 27 February   (Group 3)
 
 *  Tupacs  
 *   Readings:
-    1.  TBD
+    1.  Flores Galindo, Alberto, “The Rebellion of Tupac Amaru,” in Starn, et. al., The Peru Reader, pp. 147-156.
+    2.  Stavig, Ward. “Eugenio Sinanyuca: Militant Nonrevolutionary Kuraka, and Community Defender,” in Andrien, Kenneth J., ed., The Human Tradition in Colonial Latin America, (Delaware: Scholarly Resources, 2002), pp. 241-258.
+    3.  Stern, Steve, “The Tragedy of Success,” in Starn, et. al., Pera Reader, pp. 112-136.
+    4.  Stavig, Ward and Ella Schmidt, eds., The Tupac Amaru and Catarista Rebellions: An Anthology of Sources (Indianapolis: Hackett Publishing Company, 2008), selected documents.
 
 ---
-**Week #9** 6 March   
+**Week #9** 6 March   (Group 4)
 
 *  De Indio a Indígena  
 *   Readings:
-
+    1.  *Return of the Native*, pp. 1-132.
 ---
-**Week #10** 13 March   
+**Week #10** 13 March   (Group 5)
 
 *  De Indígena a Campesino  
 *   Readings:
-
+    1.  *Return of the Native*, Finish.
 ---
 **Week #11** 20 March   
 
@@ -161,26 +164,28 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 * No class. Spring Break.  
 
 ---
-**Week #13**  3 April  
+**Week #13**  3 April  (Group 6)
 
 * Race, Ethnicity, Nation  
 *   Readings:
+    1.  *The Lettered Mountain*, pp. 1-152.
 
 ---
-**Week #14**  10 April
+**Week #14**  10 April  (Group 7)
 
-* 
+*   Perseverance 
 *   Readings:
+    1.  *The Lettered Mountain*, finish.
 
 ---
-**Week #15** 17 April   
+**Week #15** 17 April   (Group 8)
 
 *  Representations
 *   Readings:
     1.  *¡Pachakutik!* Preface through Ch. 4.
 
 ---
-**Week #16** 24 April   
+**Week #16** 24 April   (Group 9)
 
 *  Resurgence 
 *   Readings:

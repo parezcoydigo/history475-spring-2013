@@ -1,6 +1,7 @@
 title: Assignments | History 475 | Indigenous Peoples in Spanish America  
 extends: norm.html  
 
+---
 *  **Blog posts.** The lion's share of your writing for this class will be done on your own blog.
      *  Register a free blog on [wordpress](http://wordpress.com), and provide that information on this [form](/form). You do not need to use your own name, just make sure I know who you are. Please don't all of you name the blog History 475 either. Maybe some kind of pithy avatar for the class? Due: 1/20/2013.  
      *  Weekly posts. You must post each week that you are not in a group leading discussion. All posts are due on your blog no later than 5pm each Monday, without exceptions. That means that you need to double check that your post was published.  
