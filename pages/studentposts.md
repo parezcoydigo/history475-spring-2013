@@ -1,6 +1,6 @@
 extends: norm.html
 title: Recent Student Posts
-date: 2013-1-15
+date: 2013-1-16
 
 
 ### parezco y digo
