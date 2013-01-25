@@ -1,6 +1,6 @@
 extends: norm.html
 title: Recent Student Posts
-date: 2013-1-23
+date: 2013-1-25
 
 
 ### parezco y digo
@@ -45,9 +45,15 @@ date: 2013-1-23
 ### Fantasma De Cipactli
 *  [Learning and Remembering](http://fantasmadecipactli.wordpress.com/2013/01/21/learning-and-remembering/)-- When looking at ancient cultures and their artwork made for deities, I often find myself thinking of the Greeks and Romans and their magnificent statues, buildings, and other man-made works of art as the “normal.” Reading the beginning of A &#8230; <a href="http://fantasmadecipactli.wordpress.com/2013/01/21/learning-and-remembering/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=fantasmadecipactli.wordpress.com&#038;blog=45698939&#038;post=3&#038;subd=fantasmadecipactli&#038;ref=&#038;feed=1" width="1" />
 
+### annawgreene
+*  [Climbing an Intellectual Mountain](http://annawgreene.wordpress.com/2013/01/23/climbing-an-intellectual-mountain/)-- Last semester, I had a great Women’s Studies professor who encouraged her students to write diaries. As she could not ethically check this assignment, she was never able to require it, but her point was simple: when people read about us in the future, they will get it all wrong unless their subjects left frank, [...]<img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=annawgreene.wordpress.com&#038;blog=45706406&#038;post=3&#038;subd=annawgreene&#038;ref=&#038;feed=1" width="1" />
+
 ### lasindigenas
 *  [Thoughts on the Week Three readings](http://lasindigenas.wordpress.com/2013/01/21/thoughts-on-the-week-three-readings/)-- The readings for this week were the introduction and the first chapter of Carolyn Dean’s A Culture of Stone and chapters one, two, and nine of Mesoamerican Voices, edited by Matthew Restall, Lisa Sousa, Kevin Terraciano.             Culture of Stone begins with Dean introducing the purpose of her examination of [...]<img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=lasindigenas.wordpress.com&#038;blog=45743186&#038;post=3&#038;subd=lasindigenas&#038;ref=&#038;feed=1" width="1" />
 
 ### mmcginn7
 *  [Week 2: Mesoamerican Voices(1,2,9) and A Culture of Stone(pp1-64)](http://mmcginn7.wordpress.com/2013/01/23/week-2-mesoamerican-voices129-and-a-culture-of-stonepp1-64/)-- The overarching themes in this week&#8217;s readings, in addition to Les Field&#8217;s article from Current Anthropology, introduce the difficulties in defining a general Andean culture or a Mesoamerican worldview from largely incompatible Western perspectives; or more appropriately, any perspective that is not true to the heart and diversity of those Mesoamericans. In Mesoamerican Voices, the author opens with [...]<img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=mmcginn7.wordpress.com&#038;blog=45749097&#038;post=218&#038;subd=mmcginn7&#038;ref=&#038;feed=1" width="1" />
+
+### jperugin
+*  [Leave no Stone Unturned: ‘Coming to terms’ with Inkan Spirituality](http://jperugin.wordpress.com/2013/01/25/leave-no-stone-unturned-coming-to-terms-with-inkan-spirituality/)-- My inaugural blog following the &#8216;inaugural weekend&#8217; delves into murky, uncharted territory for me, into a subject that author and art historian Carolyn Dean proclaims that “the West has literally never come to terms with” (Dean 19). Human sacrifice? Blood &#8230; <a href="http://jperugin.wordpress.com/2013/01/25/leave-no-stone-unturned-coming-to-terms-with-inkan-spirituality/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=jperugin.wordpress.com&#038;blog=45849609&#038;post=11&#038;subd=jperugin&#038;ref=&#038;feed=1" width="1" />
 
