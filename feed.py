@@ -5,7 +5,7 @@ from feedparser import parse
 
 scriptPath  = os.path.dirname(sys.argv[0])
 
-urls=['http://parezcoydigo.wordpress.com/feed', 'http://rockytopranger.wordpress.com/feed', 'http://cbbucs09.wordpress.com/feed', 'http://athenasowl1.wordpress.com/feed', 'http://willpatterson1.wordpress.com/feed', 'http://moconn475.wordpress.com/feed','http://cshinklesr2013.wordpress.com/feed','http://nsprouse.wordpress.com/feed','http://mesohistoryblog.wordpress.com/feed','http://gohomecolonistsyouredrunk.wordpress.com/feed','http://gorillawarfare475.wordpress.com/feed','http://ecraig3.wordpress.com/feed','http://dymer3.wordpress.com/feed','http://igotoseekagreatperhaps1.wordpress.com/feed','http://mjones56.wordpress.com/feed','http://fantasmadecipactli.wordpress.com/feed','http://annawgreene.wordpress.com/feed','http://lasindigenas.wordpress.com/feed','http://mmcginn7.wordpress.com/feed','http://jrpoole92590.wordpress.com/feed','http://jperugin.wordpress.com/feed']
+urls=['http://onceuponatimetherewereindigenouspeople.wordpress.com/feed','http://rachelvol13.wordpress.com/feed','http://parezcoydigo.wordpress.com/feed', 'http://rockytopranger.wordpress.com/feed', 'http://cbbucs09.wordpress.com/feed', 'http://athenasowl1.wordpress.com/feed', 'http://willpatterson1.wordpress.com/feed', 'http://moconn475.wordpress.com/feed','http://cshinklesr2013.wordpress.com/feed','http://nsprouse.wordpress.com/feed','http://mesohistoryblog.wordpress.com/feed','http://gohomecolonistsyouredrunk.wordpress.com/feed','http://gorillawarfare475.wordpress.com/feed','http://ecraig3.wordpress.com/feed','http://dymer3.wordpress.com/feed','http://igotoseekagreatperhaps1.wordpress.com/feed','http://mjones56.wordpress.com/feed','http://fantasmadecipactli.wordpress.com/feed','http://annawgreene.wordpress.com/feed','http://lasindigenas.wordpress.com/feed','http://mmcginn7.wordpress.com/feed','http://jrpoole92590.wordpress.com/feed','http://jperugin.wordpress.com/feed']
 
 today = datetime.datetime.now()
 
@@ -29,6 +29,6 @@ for feed in my_feeds:
         continue
 
 
-f = codecs.open(scriptPath+'pages/studentposts.md', 'w', encoding='utf-8').write(output)
+f = codecs.open(scriptPath+'/pages/studentposts.md', 'w', encoding='utf-8').write(output)
 print scriptPath
 print "All done!"
