@@ -1,6 +1,6 @@
 extends: norm.html
 title: Recent Student Posts
-date: 2013-2-20
+date: 2013-2-24
 
 
 ### rewritinghistory
@@ -10,7 +10,7 @@ date: 2013-2-20
 *  [La Otra Conquista](http://rachelvol13.wordpress.com/2013/02/18/la-otra-conquista/)-- La Otra Conquista is a reflection on the survival of aspects of indigenous religious culture through its union with Spanish Catholic tradition. Weaved through the film is the implication that such a synthesis is possible because, at their core, the &#8230; <a href="http://rachelvol13.wordpress.com/2013/02/18/la-otra-conquista/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=rachelvol13.wordpress.com&#038;blog=45489163&#038;post=71&#038;subd=rachelvol13&#038;ref=&#038;feed=1" width="1" />
 
 ### parezco y digo
-*  [assessment, accreditation, taxonomy: bloom’s picker!](http://parezcoydigo.wordpress.com/2013/02/19/assessment-accreditation-taxonomy-blooms-picker/)-- UT Knoxville is approaching its date with the destiny that is SACS re-accreditation. We&#8217;re due to submit our campus-wide application in September 2014. That means we&#8217;re getting in to full gear now for the hoop jumping that is this process. Today I got to attend an &#8220;Assessment Training&#8221; for program directors to introduce us to [...]<img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=parezcoydigo.wordpress.com&#038;blog=3594723&#038;post=902&#038;subd=parezcoydigo&#038;ref=&#038;feed=1" width="1" />
+*  [](http://parezcoydigo.wordpress.com/2013/02/23/904/)-- Thinking about George Landow&#8217;s observation that,  One might claim to see a parallel between the dotcom bust and the general loss of academic standing by critical theory&#8230;. and [Roland Barthes, Jacques Derrida, and other critical theorists'] approach to textuality remains very helpful in understanding our experiece of hypermedia. And vice versa. *  in connection with [...]<img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=parezcoydigo.wordpress.com&#038;blog=3594723&#038;post=904&#038;subd=parezcoydigo&#038;ref=&#038;feed=1" width="1" />
 
 ### rockytopranger
 *  [History 475, Blog 4](http://rockytopranger.wordpress.com/2013/02/11/history-475-blog-4/)-- It is imprudent to say that there is a single indigenous version of the conquest, because every altepetl experienced and participated in the conquest differently. Their differing experiences largely depended on the individual altepetl. &#8230; <a href="http://rockytopranger.wordpress.com/2013/02/11/history-475-blog-4/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" height="1" src="http://stats.wordpress.com/b.gif?host=rockytopranger.wordpress.com&#038;blog=45525334&#038;post=127&#038;subd=rockytopranger&#038;ref=&#038;feed=1" width="1" />

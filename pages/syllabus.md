@@ -135,10 +135,10 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 
 *  Tupacs  
 *   Readings:
-    1.  Flores Galindo, Alberto, “The Rebellion of Tupac Amaru,” in Starn, et. al., The Peru Reader, pp. 147-156.
-    2.  Stavig, Ward. “Eugenio Sinanyuca: Militant Nonrevolutionary Kuraka, and Community Defender,” in Andrien, Kenneth J., ed., The Human Tradition in Colonial Latin America, (Delaware: Scholarly Resources, 2002), pp. 241-258.
-    3.  Stern, Steve, “The Tragedy of Success,” in Starn, et. al., Pera Reader, pp. 112-136.
-    4.  Stavig, Ward and Ella Schmidt, eds., The Tupac Amaru and Catarista Rebellions: An Anthology of Sources (Indianapolis: Hackett Publishing Company, 2008), selected documents.
+    1.  Flores Galindo, Alberto, [“The Rebellion of Tupac Amaru,”](http://history360.files.wordpress.com/2009/03/gau839.pdf) in Starn, et. al., The Peru Reader, pp. 147-156.
+    2.  Stavig, Ward. [“Eugenio Sinanyuca: Militant Nonrevolutionary Kuraka, and Community Defender,”](http://history360.files.wordpress.com/2009/03/gau222.pdf) in Andrien, Kenneth J., ed., The Human Tradition in Colonial Latin America, (Delaware: Scholarly Resources, 2002), pp. 241-258.
+    3.  Stern, Steve,[“The Tragedy of Success,”](http://history360.files.wordpress.com/2009/03/gau838.pdf) in Starn, et. al., Pera Reader, pp. 112-136.
+    4.  Stavig, Ward and Ella Schmidt, eds., [The Tupac Amaru and Catarista Rebellions: An Anthology of Sources](http://history360.files.wordpress.com/2009/03/gau840.pdf) (Indianapolis: Hackett Publishing Company, 2008), selected documents.
 
 ---
 **Week #9** 6 March   (Group 4)
