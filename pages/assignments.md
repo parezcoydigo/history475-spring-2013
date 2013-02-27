@@ -6,6 +6,10 @@ extends: norm.html
      *  Register a free blog on [wordpress](http://wordpress.com), and provide that information on this [form](/form). You do not need to use your own name, just make sure I know who you are. Please don't all of you name the blog History 475 either. Maybe some kind of pithy avatar for the class? Due: 1/20/2013.  
      *  Weekly posts. You must post each week that you are not in a group leading discussion. All posts are due on your blog no later than 5pm each Monday, without exceptions. That means that you need to double check that your post was published.  
 
+**UPDATE 2/27** Please fill out a self-assessment of your blog posts through Week 8 on [this form](/selfassess1).  
+
+For the second half of the semester, use [these guidelines](/guidelines) for your posts.  
+
 ---
 
 *   **Group Presentations.** Check the calendar determine your group's presentation week. Groups need to meet with Dr. Black on Tuesday afternoon or evening before their Wednesday discussion. 
