@@ -146,6 +146,7 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 *  De Indio a Indígena  
 *   Readings:
     1.  *Return of the Native*, pp. 1-132.
+    2.  James Schofield Saeger, "*The Mission* and Historical Missions: Film and the Writing of History", *The Americas* Vol. 51 No. 3 (1995): pp. 393-415. (On JSTOR)
 ---
 **Week #10** 13 March   (Group 5)
 
