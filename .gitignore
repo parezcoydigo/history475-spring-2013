@@ -3,4 +3,4 @@
 env/
 .Python
 *.pyc
-pages/studentposts.md
+*/pages/studentposts.md
