@@ -8,6 +8,8 @@ extends: norm.html
 
 **UPDATE 2/27** Please fill out a self-assessment of your blog posts through Week 8 on [this form](/selfassess1).  
 
+**UPDATE 4/27** Please fill out a self-assessment of your blog posts for the second half of the semester on [this form](/selfassess2).
+
 For the second half of the semester, use [these guidelines](/guidelines) for your posts.  
 
 ---
